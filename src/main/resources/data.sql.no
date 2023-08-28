@@ -1,0 +1,16 @@
+ 
+/*insert into _users (id,nombre,apellido,dni,email,telefono) values ('1','usuario1','apellido1','dni1','email1','telefono1');
+insert into _users (id,nombre,apellido,dni,email,telefono) values ('2','usuario2','apellido2','dni2','email2','telefono2');
+insert into _users (id,nombre,apellido,dni,email,telefono) values ('3','usuario3','apellido3','dni3','email3','telefono3');
+insert into _users (id,nombre,apellido,dni,email,telefono) values ('4','usuario4','apellido4','dni4','email4','telefono4');
+ 
+insert into wallets (id,user_id)values('1','1');
+insert into wallets (id,user_id)values('2','1');
+insert into wallets (id,user_id)values('3','2');
+insert into wallets (id,user_id)values('4','2');
+insert into wallets (id,user_id)values('5','3');
+insert into wallets (id,user_id)values('6','4');
+
+insert into currencys (id,name,value_in_pesos)values('1','Peso','1');
+insert into currencys (id,name,value_in_pesos)values('2','BTC','100');
+insert into currencys (id,name,value_in_pesos)values('3','ETH','20'); */
